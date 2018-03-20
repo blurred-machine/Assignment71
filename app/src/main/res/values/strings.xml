@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment-7.1</string>
+    <string name="searchHint">Google Search</string>
+    <string name="searchbtn">Search</string>
+    <string name="goole_search">Goole Search</string>
+</resources>
